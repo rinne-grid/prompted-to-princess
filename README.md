@@ -12,7 +12,7 @@ Markdown形式のプレイログや、AIとの対話記録、記事原稿、考�
 - `conversations/`  
   各種生成AIとの対話記録や比較検証ログをまとめています。
 - `story_notes/`  
-  物語のネタバレや設定メモなど、創作の補助ノートです。
+  物語のネタバレや設定メモ。
 
 ## 主な内容
 
@@ -20,6 +20,17 @@ Markdown形式のプレイログや、AIとの対話記録、記事原稿、考�
 - 各AIモデル（ChatGPT, Claude, Gemini等）の応答比較
 - Markdownによる世界観・キャラクター表現の工夫
 - RAG（検索拡張生成）における文脈・構文の影響分析
+
+
+## チャットログビューア（Markdown対応ログ閲覧ツール）
+
+**URL**: [Birth World チャットログビューア（外部リンク）](http://www.rinsymbol.sakura.ne.jp/contents/birth_world_chat/index.html)
+
+「Birth World」の[チャット形式プレイログ（Markdown）](https://github.com/rinne-grid/prompted-to-princess-interactive-log/tree/main/play_logs)を、**対話UI形式で閲覧できるWebビューア**です。
+
+
+- 複数ログ（Log1〜Log5）を切り替え等
+
 
 ## 注意事項
 
