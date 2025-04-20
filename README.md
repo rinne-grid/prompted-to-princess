@@ -26,7 +26,7 @@ Markdown形式のプレイログや、AIとの対話記録、記事原稿、考�
 
 **URL**: [Birth World チャットログビューア（外部リンク）](http://www.rinsymbol.sakura.ne.jp/contents/birth_world_chat/index.html)
 
-「Birth World」の[チャット形式プレイログ（Markdown）](https://github.com/rinne-grid/prompted-to-princess-interactive-log/tree/main/play_logs)を、**対話UI形式で閲覧できるWebビューア**です。
+「Birth World」の[チャット形式プレイログ（Markdown）](https://github.com/rinne-grid/prompted-to-princess/tree/main/play_logs)を、**対話UI形式で閲覧できるWebビューア**です。
 
 
 - 複数ログ（Log1〜Log5）を切り替え等
